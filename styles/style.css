@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amita:wght@400;700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: darkgrey;
+}
+img{
+    width: 800px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#hedding1{
+    color: red;
+    text-align: center;
+    font-family: "Agu Display", serif;
+}
+.class1{
+    font-family: "Playwrite HU"
+}
+.class2{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+line-height: 20px;
+}
+.class3{
+font-family: serif;
+color: rgb(255, 0, 13);
+font-weight: 500;
+}
+.class4{
+    font-family: "Amita", serif;
+}
+#div1{
+    width: 300px;
+    height: 200px;
+    margin: 50px;
+    overflow: scroll;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+}
+.class5{
+font-size: xx-large;
+letter-spacing: 10px;
+color: rgb(4, 0, 255);
+}
